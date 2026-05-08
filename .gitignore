@@ -1,0 +1,14 @@
+build/
+runs/
+*.exe
+*.bin
+*.bin.tmp
+*.ckpt
+*.tmp
+/solution.out
+/solution_*.out
+/meta.json
+/meta_*.json
+/patch_test_*.out
+/patch_test_*.json
+/patch_test_*.bin

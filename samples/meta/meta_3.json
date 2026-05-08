@@ -1,0 +1,10 @@
+{
+  "best_length": 29410,
+  "weight": 1,
+  "mode": "performance",
+  "optimal_proven": false,
+  "best_source": "constructive",
+  "nodes": 2509764,
+  "snapshots": 2253,
+  "open_cap": 1000000
+}

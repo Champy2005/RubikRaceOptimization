@@ -1,0 +1,15 @@
+{
+  "best_length": 371450,
+  "weight": 1,
+  "mode": "performance",
+  "optimal_proven": false,
+  "best_source": "constructive",
+  "nodes": 1502201,
+  "snapshots": 10202,
+  "open_cap": 8000000,
+  "max_length": 400000,
+  "checkpoint_version": "ARACP02",
+  "heuristic_mode": "aggressive",
+  "constructive_mode": "paired",
+  "adaptive_weights": true
+}
